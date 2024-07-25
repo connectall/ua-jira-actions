@@ -1,1 +1,1 @@
-# jira-actions
+# ua-jira-actions
